@@ -1,6 +1,5 @@
 <h1 align="center">Привет!</h1>
 
----
 
 ## Обо мне
 
@@ -11,7 +10,6 @@ Backend-разработчик из Казахстана.
 Пишу на Python, люблю собирать серверные штуки, API и разные системные механики.  
 Иногда ухожу в эксперименты, но стараюсь расти как инженер.
 
----
 
 ## Скилы
 
@@ -28,12 +26,11 @@ Backend-разработчик из Казахстана.
 - Docker
 - Linux
 
----
 
 <h2 align="center">Мои контакты</h2>
 
 <p align="center">
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/iAndyF">
     <img src="https://img.shields.io/badge/Telegram-Написать-blue?style=for-the-badge&logo=telegram" />
   </a>
 </p>
